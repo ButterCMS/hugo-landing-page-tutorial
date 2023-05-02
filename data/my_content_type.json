@@ -1,0 +1,124 @@
+{
+  "data": {
+    "slug": "biz-landing-page",
+    "name": "Biz landing page",
+    "published": "2023-03-24T09:18:05.619191Z",
+    "updated": "2023-03-24T09:27:02.403718Z",
+    "page_type": null,
+    "fields": {
+      "landing_page": [
+        {
+          "type": "navigation",
+          "fields": {
+            "site_logo": "https://cdn.buttercms.com/CRbk74DQCOMarTWJ8Vyy",
+            "nav_items": [
+              { "nav_links": "Home" },
+              { "nav_links": "How we work" },
+              { "nav_links": "Our team" },
+              { "nav_links": "Pricing" },
+              { "nav_links": "Blog" }
+            ]
+          }
+        },
+        {
+          "type": "hero",
+          "fields": {
+            "hero_head_text": "How to level up your business",
+            "hero_image": "https://cdn.buttercms.com/5DG4iuQ8SaG63Z93wKQC",
+            "hero_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis.",
+            "hero_text": "We work with customer brands and startups"
+          }
+        },
+        {
+          "type": "services",
+          "fields": {
+            "services": [
+              {
+                "service_name": "Ecommerce service",
+                "service": "We develope E-commerce websites",
+                "service_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc.\n\n",
+                "service_image": "https://cdn.buttercms.com/mkexdIDTqmCrHW9k9SQp"
+              },
+              {
+                "service_name": "App service",
+                "service": "We develop Native Applications",
+                "service_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc.\n",
+                "service_image": "https://cdn.buttercms.com/fAJfcPPwTredDpPphbij"
+              },
+              {
+                "service_name": "Design service",
+                "service": "We develop beautiful website designs",
+                "service_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc.\n",
+                "service_image": "https://cdn.buttercms.com/OnTOAzDlSlunjsqcm039"
+              }
+            ]
+          }
+        },
+        {
+          "type": "main_service",
+          "fields": {
+            "main_service_heading": "Our main services",
+            "main_service_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna.\n\n",
+            "main_service_repeater": [
+              {
+                "service_image": "https://cdn.buttercms.com/YA2hF6SRp3MU1MZvGjOw",
+                "main_service": "Web development",
+                "service_description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent."
+              },
+              {
+                "service_image": "https://cdn.buttercms.com/stXQX8OoTGeqUkZppfzL",
+                "main_service": "App development",
+                "service_description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent."
+              },
+              {
+                "service_image": "https://cdn.buttercms.com/MxqoKBySR5aHEBp8zNKA",
+                "main_service": "Design",
+                "service_description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent."
+              }
+            ]
+          }
+        },
+        {
+          "type": "testimonial",
+          "fields": {
+            "main_testimonial_image": "https://cdn.buttercms.com/OEMMNEjBRaqOB1hL424K",
+            "main_testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus.",
+            "main_testimonial_profile": "https://cdn.buttercms.com/qzX3RxAbQACh3o3Iehee",
+            "testimonials": [
+              {
+                "testimonial_profile": "https://cdn.buttercms.com/qzX3RxAbQACh3o3Iehee",
+                "testimonial_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus.",
+                "testimonial_profile_name": "Anonymous Customer"
+              },
+              {
+                "testimonial_profile": "https://cdn.buttercms.com/jAqZLlOGSOuK0qUfS8IG",
+                "testimonial_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus.",
+                "testimonial_profile_name": "Anonymous Customer"
+              },
+              {
+                "testimonial_profile": "https://cdn.buttercms.com/nkjZ4ClaSjeBZwWadWJA",
+                "testimonial_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus.",
+                "testimonial_profile_name": "Anonymous Customer"
+              },
+              {
+                "testimonial_profile": "https://cdn.buttercms.com/qzX3RxAbQACh3o3Iehee",
+                "testimonial_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus.",
+                "testimonial_profile_name": "Anonymous Customer"
+              }
+            ]
+          }
+        },
+        {
+          "type": "footer",
+          "fields": {
+            "business_name": "UP BUSINESS",
+            "footer_text": "We specialize in providing services to desing websites, applications, build and maintain business for customers.",
+            "facebook_icon": "https://cdn.buttercms.com/D3c0GPnQLC7EdqXHjnIh",
+            "twitter_icon": "https://cdn.buttercms.com/45yCN6D7TiSyRwNgmL46",
+            "instagram_icon": "https://cdn.buttercms.com/LNuR5qSFQCqS3CDRy7Q8"
+          }
+        }
+      ]
+    }
+  }
+}
